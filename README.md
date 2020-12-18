@@ -5,11 +5,9 @@ Création d'une base de donnee sur MongoDB Compass pour le Le client Floupics:
 
 Avec une code Python:
 
-    1. Creation de la base de donne Floupics
-    
-    2. Creation de la collection movies 
-    
-    3. Insere les donnes CSV dans une document sur la collection movies
+    - Creation de la base de donne Floupics
+    - Creation de la collection movies
+    - Insere les donnes CSV dans une document sur la collection movies
 
 Pour la réalisation de ce projet les programmes suivants sont utilises :
 
@@ -22,7 +20,7 @@ Les Bibliothèques Python suivantes sont importe dans l'environnement de travail
    - Csv
    - pymongo
 
-Importer le module utils, qui contient des fonctions pour lire des fichiers csv.
+Le module utils, qui contient des fonctions pour lire des fichiers csv, a 
 
 
 Elaboration et exécution du Script sous notebooks Jupyter Lab
