@@ -20,7 +20,7 @@ Les Bibliothèques Python suivantes sont importe dans l'environnement de travail
    - Csv
    - pymongo
 
-Le module utils, qui contient des fonctions pour lire des fichiers csv, a 
+Le module utils, qui contient des fonctions pour lire des fichiers csv, a été importe
 
 
 Elaboration et exécution du Script sous notebooks Jupyter Lab
