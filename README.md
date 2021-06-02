@@ -1,27 +1,12 @@
 # movies-spinoff-mongodb
+Installer et lire des données orientées documents avec MongoDB et Python pour un POC à présenter au client Floupics.
 
-Création d'une base de donnee sur MongoDB Compass pour le Le client Floupics:
+## Contexte du projet
+La Startup dans laquelle vous travaillez souhaiterait présenter une évolution intéressante et être force de proposition. En revanche, comme elle n'est pas riche et en même temps vous faites partie de la communauté Open Source Soldat (OSS42) et Ninja, elle souhaite de votre part que vous lui présentiez un POC sur cette base :
 
-
-Avec une code Python:
-
-    - Creation de la base de donne Floupics
-    - Creation de la collection movies
-    - Insere les donnes CSV dans une document sur la collection movies
-
-Pour la réalisation de ce projet les programmes suivants sont utilises :
-
-   - MongoDB compass
-   - Python 3.8.6
-
-Les Bibliothèques Python suivantes sont importe dans l'environnement de travail:
-
-   - Jupyter Lab
-   - Csv
-   - pymongo
-
-Le module utils, qui contient des fonctions pour lire des fichiers csv, a été importe
+- installation et mise en place de MongoDB Community Edition en local
+- création d'une collection Movies et de documents à partir du CSV Movies small avec Python3
+- visualisationparlante suite aux scripts python et aussi sur MongoDB Compass
 
 
-Elaboration et exécution du Script sous notebooks Jupyter Lab
 
