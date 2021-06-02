@@ -1,4 +1,4 @@
-# movies-spinoff-mongodb
+# Movies-spinoff-mongodb
 Installer et lire des données orientées documents avec MongoDB et Python pour un POC à présenter au client Floupics.
 
 ## Contexte du projet
